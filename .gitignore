@@ -1,0 +1,78 @@
+################################
+# 1. MEAN STACK (Node/Angular) #
+################################
+
+# Dependencies (in any subfolder)
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Environment Variables (Crucial for Security!)
+**/.env
+**/.env.*
+**/config/secret.json
+**/config/*.pem
+
+# Build/Transpiled Artifacts (Can be regenerated)
+**/dist/
+**/build/
+**/out/
+**/coverage/
+
+# Logs and Temp files
+**/*.log
+**/*.tmp
+# NPM/Yarn cache/temp
+**/.npm/
+**/.yarn/
+**/.cache/
+
+###################################
+# 2. VISUAL STUDIO (IDE) ARTIFACTS #
+###################################
+
+# Build results (Common for all VS projects)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+**/[Bb]in/
+**/[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vssscc
+*.vspscc
+
+# Solution/Project-level artifacts
+.vs/          # The hidden Visual Studio solution folder
+packages/     # NuGet packages (if using any C# components)
+
+# Miscellaneous
+*~
+*.bak
+*.ncb
+*.pdb
+*.sdf
+*.tlb
+
+######################################
+# 3. VS CODE (Editor) AND OS ARTIFACTS #
+######################################
+
+# VS Code Folder (Workspace Settings)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Windows and macOS Junk
+Thumbs.db
+ehthumbs.db
+.DS_Store
