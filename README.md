@@ -16,7 +16,24 @@ I have selected three core artifacts from my coursework, each enhanced to demons
 
 ## Artifact Details and Demonstration
 
-Placeholder for details
+### 1. Software Engineering and Design: Breakout Game
+
+[**View the Breakout Game Codebase**](./Artifact%201%20Enhancement)
+
+### 2. Algorithms and Data Structures: Course Advising Application
+
+[**View the Course Advising Application Codebase**](./Artifact%202%20Enhancement/CourseAdvising)
+
+### 3. Databases: Full Stack Web Application
+
+[**View the Full Stack Web Application Codebase**](./Artifact%203%20Enhancement/travlr)
+
+
+### Code Review Video
+
+This video is a **pre-enhancement screencast** that serves as the planning phase for this Capstone project. It uses a structured code review checklist to identify specific flaws and shortcomings in the original three artifacts. I discuss the issues found and lay out the planned enhancements for each artifact across the three enhancement categories.
+
+[**Watch the Full Code Review** (Google Drive)](https://drive.google.com/file/d/1yNyTNToGlWkwZv9Kpt8ZDBCV-5AOq0Wi/view?usp=sharing)
 
 ### Code Review Video
 
