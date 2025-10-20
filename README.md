@@ -14,19 +14,28 @@ I have selected three core artifacts from my coursework, each enhanced to demons
 
 ---
 
+## Self-assessment
+[**View the Self-assessment**](./SelfAssessment.docx)
+
 ## Artifact Details and Demonstration
 
 ### 1. Software Engineering and Design: Breakout Game
 
 [**View the Breakout Game Codebase**](./Artifact%201%20Enhancement)
 
+[**View the Narrative**](./Narratives/(artifact%201)%20Milestone%202%20Narrative_MalcolmWilliams.docx)
+
 ### 2. Algorithms and Data Structures: Course Advising Application
 
 [**View the Course Advising Application Codebase**](./Artifact%202%20Enhancement/CourseAdvising)
 
+[**View the Narrative**](./Narratives/(artifact%202)%20Milestone%203%20Narrative_MalcolmWilliams.docx)
+
 ### 3. Databases: Full Stack Web Application
 
 [**View the Full Stack Web Application Codebase**](./Artifact%203%20Enhancement/travlr)
+
+[**View the Narrative**](./Narratives/(artifact%203)%20Milestone%204%20Narrative_MalcolmWilliams.docx)
 
 
 ### Code Review Video
